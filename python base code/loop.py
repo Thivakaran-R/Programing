@@ -1,5 +1,5 @@
 
-# NEXT PROGRAMMING 
+
 for i in "apple":
   print(i)
 # NEXT PROGRAMMING 
