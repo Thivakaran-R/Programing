@@ -11,8 +11,7 @@ print(type(z))
 """
 sample output:
 s1
-2
-<class 'str'>
+2 <class 'str'>
 """
 x = str("s1")
 y = str(2)
